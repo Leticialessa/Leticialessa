@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Letícia Lessa
+# 👋 Olá! Eu sou a Leticia Lessa
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B98AFF&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Python+%7C+Automation;Transformando+dados+em+solu%C3%A7%C3%B5es!" />
